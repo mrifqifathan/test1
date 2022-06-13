@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-tes rifqi
-=======
-kunt rifqi ganteng
->>>>>>> bb8794ed666b1688177b914fc0fa18e60a5e0fb4
+rifqi
